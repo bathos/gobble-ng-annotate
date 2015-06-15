@@ -17,7 +17,7 @@
   "license": "MIT",
   "main": "index.js",
   "name": "gobble-ng-annotate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/bathos/gobble-ng-annotate.git"
